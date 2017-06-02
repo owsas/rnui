@@ -1,0 +1,3 @@
+rootProject.name = 'rnui'
+
+include ':app'
